@@ -1,0 +1,25 @@
+<style>
+        	h1{
+        		font-family:sans-serif;
+                        float:left;
+                       margin:10% 10% 10% 10%;
+                 }
+        	p{
+        		font-size: 250%;
+                        margin-left: 10%;
+                        margin-right: 10%;
+                        margin-top: 10%;
+                        margin-bottom: 10%;
+                        background-color: lightblue;
+        	}
+        	em{
+        		font-weight: bold;
+                        font-size: 200%;
+        	}
+        	span{
+        		color:black;
+        	}
+                img{
+                        float:right;
+                        margin:5% 5% 5% 5%;
+                }
